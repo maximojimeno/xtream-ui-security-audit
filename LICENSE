@@ -1,0 +1,49 @@
+MIT License
+
+Copyright (c) 2026 Security Research Team
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+ADDITIONAL DISCLAIMER FOR SECURITY RESEARCH SOFTWARE:
+
+This software is provided for EDUCATIONAL and AUTHORIZED SECURITY TESTING 
+purposes only. Unauthorized access to computer systems is illegal under various
+laws including but not limited to:
+
+- Computer Fraud and Abuse Act (CFAA) - United States
+- Computer Misuse Act - United Kingdom  
+- Similar legislation in other jurisdictions
+
+Users of this software MUST:
+- Obtain explicit written authorization before testing any systems
+- Comply with all applicable laws and regulations
+- Use the software responsibly and ethically
+
+Users MUST NOT:
+- Use this software for unauthorized access
+- Use this software for malicious purposes
+- Violate any laws or regulations
+
+The authors and contributors of this software:
+- DISCLAIM ALL LIABILITY for misuse of this software
+- Do NOT endorse or condone illegal activities
+- Are NOT responsible for any damages caused by misuse
+
+By using this software, you agree to these terms and accept full responsibility
+for your actions.
